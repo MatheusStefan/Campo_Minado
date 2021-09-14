@@ -2,7 +2,7 @@
 
 - O famoso jogo Campo Minado feito em Java e Swing
 
-# COMO JOGAR
+## COMO JOGAR
 
 - No pacote visao existe o arquivo TelaPrincipal. Nele você consegue escolher o número de linhas, colunas e minas.
 
